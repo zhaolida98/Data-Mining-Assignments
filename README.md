@@ -1,2 +1,6 @@
 # Data-Mining-Assignments
-this is for data mining's assignments
+This is for data mining's assignments
+
+I'm 11611803, Darcy
+
+My homework will pull in this repository
